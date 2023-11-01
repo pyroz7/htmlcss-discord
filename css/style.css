@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
+
+.horizontal-li {  
+     display: inline-block;   
+     margin-right: 40px; /* add spacing between items */ 
+     color: white;
+     
+}
+
+
+.testoita{
+    color: #7289DA;
+}
+
+.titlefooter{
+    color: #7289DA;
+}
+
+.endpage{
+    text-align: center;
+    margin-top: 15%;
+}
+
+.titleup{
+    text-align: center;
+    margin-top: 2%;
+
+}
+
+.logo{
+    margin-top: 4%;
+}
+
+.loggs{
+        height: 200px;
+        margin: 0;
+        position: absolute;
+        text-align: center;
+       
+        
+}
